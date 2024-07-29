@@ -17,7 +17,7 @@ public class Main {
         flight.addSeat(seat3);
 
         // Create a Passenger
-        Passenger passenger = new Passenger("P001", "Wong Wilson", "A12345678", "wilsonw5915@gmail.com", "011-55074862");
+        Passenger passenger = new Passenger("A001", "Wong Wilson", "A12345678", "wilsonw5915@gmail.com", "011-55074862");
 
         // Find available seats before reservation
         System.out.println("Available seats before reservation:");
